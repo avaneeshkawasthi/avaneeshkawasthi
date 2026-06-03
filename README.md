@@ -1,23 +1,23 @@
 # Hi, I'm Avaneesh Awasthi 👋
-### Senior iOS Engineer | Mobile Architect
+### Senior iOS Engineer | Mobile Architect | AI-Augmented Developer
 
-I am a Senior iOS Developer with over a decade of professional experience building, scaling, and architecting robust mobile applications. My passion lies in writing clean, predictable, and highly testable code using modern Swift methodologies, robust design patterns, and strict adherence to SOLID principles.
+I am a Senior iOS Developer with over a decade of professional experience building, scaling, and architecting robust mobile applications. I pair deep architectural principles with modern AI-assisted engineering tools to deliver high-quality code at an accelerated velocity.
 
-- 🚀 **Core Focus:** Advanced SwiftUI state management, modern Swift Concurrency ($Async/Await$), and performance optimization.
-- ⚙️ **Architectural Philosophy:** Protocol-Oriented Programming (POP), Dependency Injection, and decoupling layers to eliminate "God Objects."
-- 🧠 **Exploring:** Generative AI automation workflows, RAG systems, and AI-integrated mobile solutions.
+- 🚀 **Core Focus:** Advanced SwiftUI state management, modern Swift Concurrency, and performance optimization.
+- ⚙️ **Architectural Philosophy:** Protocol-Oriented Programming (POP), Dependency Injection, and strict adherence to SOLID principles.
+- 🤖 **AI-Assisted Workflow:** Expert at leveraging **Cursor**, Advanced Prompt Engineering, and custom LLM workflows to rapidly prototype, refactor legacy codebases, and write comprehensive unit tests.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack & AI Tooling
 
-| Layer | Technologies & Frameworks |
+| Layer | Technologies & Tools |
 | :--- | :--- |
+| **AI & Automation** | **Cursor AI**, GitHub Copilot, Custom RAG Workflows, n8n Automation |
 | **Languages & Core** | Swift, Objective-C, Core Data, Combine |
 | **UI Frameworks** | SwiftUI, UIKit (Programmatic UI & Storyboards) |
 | **Architecture** | MVVM, VIPER, Clean Architecture, SOLID, POP |
-| **Asynchronous** | Async/Await, Actors, Grand Central Dispatch (GCD) |
-| **Tools & Automation** | Xcode, Git, CI/CD Pipelines, RESTful APIs, Firebase |
+| **Tools & Infrastructure** | Xcode, Git, CI/CD Pipelines, RESTful APIs, Firebase |
 
 ---
 
@@ -30,15 +30,16 @@ I am a Senior iOS Developer with over a decade of professional experience buildi
 
 #### 🏗️ [VIPER-Architecture-Demo](https://github.com/avaneeshkawasthi/ViperArchitecture)
 * **Description:** A deep-dive implementation of the VIPER (View-Interactor-Presenter-Entity-Router) architectural pattern.
-* **Key Highlights:** Strict separation of business logic, presentation logic, and routing, maximizing testability and scalability for enterprise-level applications.
+* **Key Highlights:** Strict separation of business logic, presentation logic, and routing, maximizing testability and scalability.
 
 #### 🔌 [NFC-Demo](https://github.com/avaneeshkawasthi/NFC-Demo)
-* **Description:** A technical showcase demonstrating hardware integration within iOS.
-* **Key Highlights:** Implements CoreNFC to read and interact with Near Field Communication tags efficiently.
+* **Description:** A technical showcase demonstrating hardware integration within iOS using CoreNFC.
 
 ---
 
 ### 📊 GitHub Insights
+
+*Note: Stats include combined public contributions and secure private enterprise repositories.*
 
 ![Avaneesh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=avaneeshkawasthi&show_icons=true&theme=nord&count_private=true)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=avaneeshkawasthi&layout=compact&theme=nord)
