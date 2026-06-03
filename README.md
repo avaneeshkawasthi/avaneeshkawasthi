@@ -47,4 +47,4 @@ I am a Senior iOS Developer with over a decade of professional experience buildi
 
 ### 🤝 Connect With Me
 * **LinkedIn:** [linkedin.com/in/avaneesh-awasthi](https://www.linkedin.com/in/avaneesh-awasthi-10747659/)
-* **Location:** Noida, India 🇮🇳
+* **Location:** Bangalore, India 🇮🇳
