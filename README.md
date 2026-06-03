@@ -40,8 +40,8 @@ I am a Senior iOS Developer with over a decade of professional experience buildi
 
 ### 📊 GitHub Insights
 
-![Avaneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avaneeshkawasthi&show_icons=true&theme=nord&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaneeshkawasthi&layout=compact&theme=nord)
+![Avaneesh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=avaneeshkawasthi&show_icons=true&theme=nord&count_private=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=avaneeshkawasthi&layout=compact&theme=nord)
 
 ---
 
